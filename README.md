@@ -1,1 +1,1 @@
-# issp_frida_series_of_notes
+# frida series of notes
